@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+10:09:03	70/70	---MCZ	200	added ('OK')	text/plain	etag:%22825-1648936959;gz%22	https://panther.wiki/robots.txt		(from )
+10:09:04	63935/63935	---MCZ	200	added ('OK')	text/html	date:Mon,%2004%20Apr%202022%2003:09:08%20GMT	https://panther.wiki/Firekirin/	C:/My%20Web%20Sites/firekirin22/panther.wiki/Firekirin/index.html	(from )
